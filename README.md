@@ -1,5 +1,5 @@
 # 16 Portfolio
-[![License: MIT](https://img.shields.io/github/license/CailinBellWold/Team-Profile-Generator?style=plastic)](https://opensource.org/licenses/MIT)
+
 
 ## Description
 
@@ -14,7 +14,10 @@ An **updated portfolio** and other professional materials, shared as I build tow
 
 ## Screen Shot
 
- 
+ ![A681C9CC-284F-4538-8C34-405EE242111B_1_105_c](https://user-images.githubusercontent.com/80792502/132797625-bc33a7a9-a1cf-4eca-816d-2b019e827293.jpeg)
+![52EEE45C-8D74-438C-A010-53006B09F8B2_1_105_c](https://user-images.githubusercontent.com/80792502/132797629-3a8cd095-8450-4ada-95d2-18b89cf92615.jpeg)
+![6448FC87-774E-468C-925A-AC68A46E37CF_1_105_c](https://user-images.githubusercontent.com/80792502/132797631-fa5588c6-b12f-4c0d-8b30-b03ea78af3b4.jpeg)
+
 
 ## Deployed Application
 
